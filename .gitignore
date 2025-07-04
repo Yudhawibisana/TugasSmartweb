@@ -20,6 +20,6 @@ yarn-error.log
 /.vscode
 /.zed
 
-# KOMENTARI vendor dan build
+# Komen baris ini agar vendor & build ikut dipush
 # /vendor
 # /public/build
